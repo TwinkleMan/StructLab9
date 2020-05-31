@@ -1,0 +1,4 @@
+C:\Users\Artem\apps\CLion\ch-0\201.7223.86\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\Artem\CLionProjects\StructLab9
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Artem/CLionProjects/StructLab9/cmake-build-debug

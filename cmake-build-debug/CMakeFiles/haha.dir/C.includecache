@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Artem/CLionProjects/StructLab9/lect-12-02.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+ctype.h
+-
+
